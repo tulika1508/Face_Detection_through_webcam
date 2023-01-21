@@ -4,7 +4,7 @@ It is a project to detect faces by drawing rectangle around each face by capturi
 
 
 # How it works
-The faces are detected through the webcam by creating rectangles around each face.
+Face detection is a technique to find the location of the human faces in an image.The faces are detected through the webcam by creating rectangles around each face.
 
 It uses conversion to gray scale and hence detecting the faces.
 
