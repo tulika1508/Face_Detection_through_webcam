@@ -14,3 +14,7 @@ It works even when we move our face up,down,left and right.
 HOW TO STOP THE WEBCAM AFTER DETECTING THE FACES?
 
 It stops when escape key is pressed.
+
+# Tech-Stacks used
+
+Python,OpenCV
